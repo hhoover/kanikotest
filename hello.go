@@ -1,5 +1,5 @@
 package main
 import "fmt"
 func main() {
- fmt.Println("Go Docker")
+ fmt.Println("Hello FE")
 }
